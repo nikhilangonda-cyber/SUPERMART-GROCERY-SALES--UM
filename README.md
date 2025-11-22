@@ -1,5 +1,7 @@
 # **SUPERMART GROCERY SALES IN PYTHON**
+<img width="224" height="225" alt="image" src="https://github.com/user-attachments/assets/dafa0d68-6044-4df0-af3c-5d662a14db89" />
 
+This analysis explores sales, orders, profit trends, and customer behavior to identify top regions, categories, and performance patterns, helping improve business decisions and overall growth.
 
 # **Findings Summary**
 
