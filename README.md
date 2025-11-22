@@ -1,3 +1,6 @@
+# **SUPERMART GROCERY SALES IN PYTHON**
+
+
 # **Findings Summary**
 
 1. Total sales are strong, indicating healthy revenue generation across all regions and categories.
